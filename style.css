@@ -1,1 +1,28 @@
+.experience-header {
+  text-transform: uppercase;
+  border-top: 1px solid;
+  border-bottom: 1px solid;
+}
+img {
+  width: 93% 
+}
 
+.container {
+  width: 900px;
+    margin-left: 0;
+    margin-right: 0; 
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container .left {
+  width: 285px;
+  float: left;
+  background: #F8F0E3;
+  padding-left: 15px;
+}
+
+.container .right {
+  width: 585px;
+  float: left;
+  padding-left: 15px;
+}
