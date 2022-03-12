@@ -15,10 +15,11 @@ img {
 }
 
 .container .left {
-  width: 285px;
+  width: 270px;
   float: left;
   background: #58595B;
   padding-left: 15px;
+  padding-right: 15px;
   color: white;
 }
 
